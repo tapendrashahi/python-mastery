@@ -3,7 +3,7 @@
 
 ---
 
-## ✅ BASIC
+## BASIC
 
 ---
 
@@ -82,7 +82,7 @@
 
 ---
 
-## ⬜ INTERMEDIATE
+## INTERMEDIATE
 
 ---
 
@@ -146,7 +146,7 @@
 
 ---
 
-## ⬜ ADVANCED
+## ADVANCED
 
 ---
 
@@ -210,7 +210,7 @@
 
 ---
 
-## ⬜ PRO / PRODUCTION
+## PRO / PRODUCTION
 
 ---
 

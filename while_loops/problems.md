@@ -9,12 +9,12 @@
 
 ### 1. `while` condition (Basic)
 
-1. Print numbers from 1 to 10.
-2. Print numbers from 10 to 1 (countdown).
-3. Print all even numbers from 2 to 20.
-4. Print all odd numbers from 1 to 19.
-5. Print the sum of numbers from 1 to 100.
-6. Print multiples of 5 from 5 to 50.
+1.1. Print numbers from 1 to 10.
+1.2. Print numbers from 10 to 1 (countdown).
+1.3. Print all even numbers from 2 to 20.
+1.4. Print all odd numbers from 1 to 19.
+1.5. Print the sum of numbers from 1 to 100.
+1.6. Print multiples of 5 from 5 to 50.
 7. Print numbers from 1 to 50 that are divisible by both 2 and 3.
 8. Keep dividing a number by 2 until it's less than 1. Print each step. (Start with 64)
 9. Print the multiplication table of 7 (7x1 to 7x10).
